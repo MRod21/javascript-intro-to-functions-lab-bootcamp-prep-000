@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   return "I can\'t hear you".toLowerCase()
 } 
 
-function sayHiToGrandma( {
+function sayHiToGrandma(ILoveYouToo) {
   return "Yes Indeed!"
 } 
 
