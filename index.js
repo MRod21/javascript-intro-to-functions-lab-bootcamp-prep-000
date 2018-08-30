@@ -21,5 +21,5 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string) {
   console.log(string.toUpperCase);
-  return "Yes Indeed!"
+  return "Yes Indeed!".toUpperCase()
 } 
